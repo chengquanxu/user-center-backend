@@ -59,7 +59,7 @@
 
 	创建数据库和表（建表语句在`sql/create_table.sql`内，模拟数据在`sql/user.sql`内，密码字段都是加密后的，加密前都是12345678）
 
-7. 启动[前端](https://github.com/chengquanxu/user-center-frontend)访问即可
+7. 启动[前端](https://github.com/chengquanxu/user-center-frontend)访问即可 
 
 
 
